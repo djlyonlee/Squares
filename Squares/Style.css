@@ -1,0 +1,34 @@
+/*Universal Selector*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*Class Selector*/
+body {
+    background-color: seagreen;
+}
+ { 
+.myDiv1{
+    height: 50px;
+    Width: 50px;
+    background-color: lime;
+}
+
+.myDiv2{
+    height: 50px;
+    Width: 50px;
+    background-color: red;
+}
+.myDiv3{
+    height: 50px;
+    Width: 50px;
+    background-color: blueviolet;
+}
+.myDiv4{
+    height: 50px;
+    Width: 50px;
+    background-color: orchid;
+}
+
